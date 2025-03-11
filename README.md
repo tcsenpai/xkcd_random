@@ -2,6 +2,8 @@
 
 This is a simple script to download random XKCD comics and, if `kitten icat` is installed, display the comic in the terminal.
 
+It saves the comic in your Pictures directory in a subfolder named `xkcd_strips`.
+
 ![Screenshot](screenshot.png)
 
 ## Usage
