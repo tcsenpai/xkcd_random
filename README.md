@@ -2,6 +2,8 @@
 
 This is a simple script to download random XKCD comics and, if `kitten icat` is installed, display the comic in the terminal.
 
+![Screenshot](screenshot.png)
+
 ## Usage
 
 ```bash
